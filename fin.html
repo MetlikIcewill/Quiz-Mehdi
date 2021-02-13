@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Félicitations!</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="end" class="flex-center flex-column">
+        <h1 id="ScoreFinal"></h1>
+        <form>
+		<!-- mise en place de l'encadré pour entrer son nom -->
+          <input
+            type="text"
+            name="nom"
+            id="nom"
+            placeholder="nom" 
+          />
+		  <!--sauvegarde du score avec le nom quand on clique sur le bouton Sauvegarder-->
+          <button
+            type="submit"
+            class="btn"
+            id="saveScoreBtn"
+            onclick="saveMeilleurScore(event)" 
+            disabled
+		   >
+            Sauvegarder
+          </button>
+        </form>
+        <a class="btn" href="jeu.html">Rejouer</a>
+        <a class="btn" href="index.html">Menu</a>
+      </div>
+    </div>
+    <script src="fin.js"></script> <!--lien entre le code html et le code js-->
+  </body>
+</html>
