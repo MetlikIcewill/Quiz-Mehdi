@@ -1,0 +1,82 @@
+[
+	{
+		"question": "Quelle équipe nationale a gagné la Coupe du Monde de Football en 2002?",
+		"choice1": "La France",
+		"choice2": "L'Allemagne",
+		"choice3": "L'Italie",
+		"choice4": "Le Brésil",
+		"answer": 4
+	},
+	{
+		"question": "Quelle est la capitale du Canada?",
+		"choice1": "Québec",
+		"choice2": "Montreal",
+		"choice3": "Ottawa",
+		"choice4": "Ontario",
+		"answer": 3
+	},
+	{
+		"question": "Avec quel pays la France partage-t-elle sa plus longue frontière?",
+		"choice1": "L'Allemagne",
+		"choice2": "Le Brésil",
+		"choice3": "L'Espagne",
+		"choice4": "La Belgique",
+		"answer": 2
+	},
+	{
+		"question": "Quel est le premier président socialiste français sous la 5ème République?",
+		"choice1": "Jacque Chirac",
+		"choice2": "François Hollande",
+		"choice3": "François Mitterrand",
+		"choice4": "Charles De Gaulle",
+        "answer": 3
+	},
+	{
+		"question": "Quel est le groupe caractéristique des alcènes?",
+		"choice1": "Le groupe CO",
+		"choice2": "Le groupe CHO",
+		"choice3": "Ils n'en possèdent pas",
+		"choice4": "Le groupe COO",
+		"answer": 3
+	},
+	{
+		"question": "Quel est l'os le plus long du corps humain?",
+		"choice1": "le fémur",
+		"choice2": "L'humérus",
+		"choice3": "L'ulna",
+		"choice4": "La fibula",
+		"answer": 1
+	},
+	{
+		"question": "Quelle est la meilleure moyenne obtenue au bac français?",
+		"choice1": "21.02",
+		"choice2": "20.79",
+		"choice3": "21.33",
+		"choice4": "22.13",
+		"answer": 3
+	},
+	{
+		"question": "Comment s'appelle le petit du Dauphin?",
+		"choice1": "Le dauphinois",
+		"choice2": "Le bébé dauphin",
+		"choice3": "Un dauphin",
+		"choice4": "Le delphineau",
+		"answer": 4
+	},
+	{
+		"question": "Quel est l'organe regulant le PH sanguin?",
+		"choice1": "Foie",
+		"choice2": "Poumons",
+		"choice3": "Pancréas",
+		"choice4": "Intestins",
+		"answer": 2
+	},
+	{
+		"question": "Que vaut 154 en base 16?",
+		"choice1": "9A",
+		"choice2": "8C",
+		"choice3": "7D",
+		"choice4": "2E",
+		"answer": 1
+	}
+]
